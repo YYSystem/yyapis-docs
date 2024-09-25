@@ -1,1 +1,2 @@
 # yyapis-docs
+[Visit project's wiki](https://github.com/YYSystem/yyapis-docs/wiki/document_developerconsole_yyapis#yyapis-%E9%96%8B%E7%99%BA%E8%80%85%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
